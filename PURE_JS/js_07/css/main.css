@@ -1,0 +1,18 @@
+html, body{
+background-color: #EDEDED;
+}
+h2{
+    color: rgb(235, 80, 80)
+} 
+
+.normal{
+    border: 2px solid black;
+}
+
+.error{
+    border: 2px solid red;
+}
+
+.correct{
+    border: 2px solid green; 
+}
