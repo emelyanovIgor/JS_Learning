@@ -1,0 +1,18 @@
+html, body{
+background-color: #EDEDED;
+}
+h2{
+    color: rgb(235, 80, 80)
+} 
+
+input{
+    width: 300px;
+    height:30px 
+}
+.ok{
+    background-color: rgb(100, 255, 100);
+}
+.error{
+    background-color: rgb(255, 100, 100);
+
+}
